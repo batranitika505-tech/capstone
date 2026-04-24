@@ -80,16 +80,20 @@ The essay is evaluated based on:
 
 ## 📸 Screenshots
 
-*(Note: Please save the screenshots you provided into a `screenshots/` directory in this repository with these exact filenames to display them).*
-
 ### Google Form
 https://docs.google.com/forms/d/e/1FAIpQLSepcpCnbfn6IyZaL9CGH46fwel04b4O6-lTK_ntV3b8LY97oQ/viewform
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/7b44f3ea-45a2-4c07-a794-3acfd4e8ace3" />
+
 
 ### Google Sheet
 https://docs.google.com/spreadsheets/d/1LOiSW0gSJJfJrujlnLcN-8GDwLKoUp307NIJwsKUm6I/edit?resourcekey=&gid=170073561#gid=170073561
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/80e8fc45-0b92-4acc-94c5-e60dd16ae05c" />
+
 
 ### Dashboard
 https://docs.google.com/spreadsheets/d/1LOiSW0gSJJfJrujlnLcN-8GDwLKoUp307NIJwsKUm6I/edit?resourcekey=&gid=13559485#gid=13559485
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e6ac7aab-3711-48ce-bd37-871c3a54e962" />
+
 
 ## ⚙️ How It Works
 1. Student submits essay via Google Form.

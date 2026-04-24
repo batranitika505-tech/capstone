@@ -83,16 +83,13 @@ The essay is evaluated based on:
 *(Note: Please save the screenshots you provided into a `screenshots/` directory in this repository with these exact filenames to display them).*
 
 ### Google Form
-![Google Form](screenshots/google_form.png)
+https://docs.google.com/forms/d/e/1FAIpQLSepcpCnbfn6IyZaL9CGH46fwel04b4O6-lTK_ntV3b8LY97oQ/viewform
 
 ### Google Sheet
-![Google Sheet](screenshots/google_sheet.png)
-
-### n8n Workflow
-![n8n Workflow](screenshots/n8n_workflow.png)
+https://docs.google.com/spreadsheets/d/1LOiSW0gSJJfJrujlnLcN-8GDwLKoUp307NIJwsKUm6I/edit?resourcekey=&gid=170073561#gid=170073561
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+https://docs.google.com/spreadsheets/d/1LOiSW0gSJJfJrujlnLcN-8GDwLKoUp307NIJwsKUm6I/edit?resourcekey=&gid=13559485#gid=13559485
 
 ## ⚙️ How It Works
 1. Student submits essay via Google Form.
